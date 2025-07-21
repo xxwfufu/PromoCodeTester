@@ -45,4 +45,4 @@ Une fois lancé, Chrome s’ouvre normalement.
 Ouvre la page où tu veux tester les codes (ex: site de promo).
 
 Lance ton script Python.
-
+https://www.roblox.com/fr/redeem
